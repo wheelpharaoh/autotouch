@@ -1,3 +1,6 @@
+#Prerequisites:
+iPhone6
+
 #Install:
 Unzip and transfer contents to 
 /var/mobile/Library/AutoTouch/Scripts
