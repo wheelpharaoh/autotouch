@@ -1,6 +1,10 @@
 #Prerequisites:
 iPhone6
 
+Jailbreak
+
+AutoTouch package
+
 #Install:
 Unzip and transfer contents to 
 /var/mobile/Library/AutoTouch/Scripts
